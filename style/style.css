@@ -77,18 +77,18 @@ section.image{
     
     background-attachment: fixed;
     background-color: black;
-    background-position: right center;
     background-size: cover;
     
     color: white;
 }
 section.image#i1{
     background-image: url(../imagens/background001.jpg);
+    background-position: center center;
 }
 
 section.image#i2{
     background-image: url(../imagens/background002.jpg);
-
+    background-position: right center;
 }
 
 section.image > p {
